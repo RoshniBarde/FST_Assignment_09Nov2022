@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-04T13:07:00 IST" name="Suite" finished-at="2022-11-04T13:07:04 IST" duration-ms="4414">
+    <groups>
+    </groups>
+    <test started-at="2022-11-04T13:07:00 IST" name="Test" finished-at="2022-11-04T13:07:04 IST" duration-ms="4414">
+      <class name="testCases.FirstTestNGScript">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:testCases.FirstTestNGScript@16610890]" started-at="2022-11-04T13:07:00 IST" name="beforeClass" finished-at="2022-11-04T13:07:00 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testCases.FirstTestNGScript@16610890]" started-at="2022-11-04T13:07:00 IST" name="beforeMethod" finished-at="2022-11-04T13:07:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="amethod()[pri:0, instance:testCases.FirstTestNGScript@16610890]" started-at="2022-11-04T13:07:00 IST" name="amethod" finished-at="2022-11-04T13:07:00 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testCases.FirstTestNGScript@16610890]" started-at="2022-11-04T13:07:00 IST" name="afterMethod" finished-at="2022-11-04T13:07:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testCases.FirstTestNGScript@16610890]" started-at="2022-11-04T13:07:00 IST" name="beforeMethod" finished-at="2022-11-04T13:07:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="bmethod()[pri:0, instance:testCases.FirstTestNGScript@16610890]" started-at="2022-11-04T13:07:00 IST" name="bmethod" finished-at="2022-11-04T13:07:00 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testCases.FirstTestNGScript@16610890]" started-at="2022-11-04T13:07:00 IST" name="afterMethod" finished-at="2022-11-04T13:07:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testCases.FirstTestNGScript@16610890]" started-at="2022-11-04T13:07:00 IST" name="afterClass" finished-at="2022-11-04T13:07:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testCases.FirstTestNGScript -->
+      <class name="testCases.SecondTestNGScript">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:testCases.SecondTestNGScript@3232a28a]" started-at="2022-11-04T13:07:00 IST" name="beforeClass" finished-at="2022-11-04T13:07:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="amethod()[pri:0, instance:testCases.SecondTestNGScript@3232a28a]" started-at="2022-11-04T13:07:00 IST" name="amethod" finished-at="2022-11-04T13:07:00 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testCases.SecondTestNGScript@3232a28a]" started-at="2022-11-04T13:07:00 IST" name="beforeMethod" finished-at="2022-11-04T13:07:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testCases.SecondTestNGScript@3232a28a]" started-at="2022-11-04T13:07:00 IST" name="afterClass" finished-at="2022-11-04T13:07:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testCases.SecondTestNGScript@3232a28a]" started-at="2022-11-04T13:07:00 IST" name="afterMethod" finished-at="2022-11-04T13:07:00 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testCases.SecondTestNGScript -->
+      <class name="testCases.PracticeTestngExercise">
+        <test-method is-config="true" signature="launchFB()[pri:0, instance:testCases.PracticeTestngExercise@73e22a3d]" started-at="2022-11-04T13:07:00 IST" name="launchFB" finished-at="2022-11-04T13:07:03 IST" duration-ms="3552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchFB -->
+        <test-method signature="enterCreds()[pri:0, instance:testCases.PracticeTestngExercise@73e22a3d]" started-at="2022-11-04T13:07:03 IST" name="enterCreds" finished-at="2022-11-04T13:07:04 IST" duration-ms="439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterCreds -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testCases.PracticeTestngExercise@73e22a3d]" started-at="2022-11-04T13:07:04 IST" name="closeBrowser" finished-at="2022-11-04T13:07:04 IST" duration-ms="343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- testCases.PracticeTestngExercise -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
